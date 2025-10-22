@@ -69,6 +69,3 @@ Builds a deterministic dataset signature to validate the embedding cache. :conte
 - If you see too many edges, increase the visualization cutoff (e.g., `score >= 0.35`). :contentReference[oaicite:25]{index=25}
 
 ---
-
-## License
-MIT License (or your preferred). Include a `LICENSE` file in the repository.
